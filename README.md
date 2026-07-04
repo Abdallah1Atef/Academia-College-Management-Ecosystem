@@ -526,7 +526,7 @@ A[PDF]
 
 <a id="deployment"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=5a4dbf&vCenter=true&width=435&height=25&lines=DEPLOYMENT" width="450"/>
+
 
 ---
 
