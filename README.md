@@ -679,23 +679,7 @@ The Academia ecosystem was developed collaboratively by students specializing in
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=5a4dbf&vCenter=true&width=435&height=25&lines=DEMO+VIDEOS" width="450"/>
 
----
 
-### 💻 Web Dashboard
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1pIwiySO63U0JgaznirzbiVU-8o1hqvhq/view?usp=drivesdk">
-    <img src="./Source/assets/web-demo-thumbnail.png" alt="Web Dashboard Demo" width="800"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1pIwiySO63U0JgaznirzbiVU-8o1hqvhq/view?usp=drivesdk">
-    ▶️ Watch the Full Web Demo
-  </a>
-</p>
-
----
 
 ### 📱 Mobile Application
 
